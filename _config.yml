@@ -1,3 +1,26 @@
 theme: minima
 title: Donovan's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+base_url: /gh-pages-minima-starter
+# Minima social links
+github_username: donovanphan
+linkedin_username: donovanphan
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  
+include:
+    - _pages
+    
+exclude: 
+    - Gemfile
+    - README.md
