@@ -1,4 +1,4 @@
-hello! \
-my name is donovan phan \
-i'm a incoming junior at uc davis majoring in cognitive science
+Hello! \
+My name is Donovan Phan \
+I'm a incoming junior at [UC Davis] (https://ucdavis.edu)  majoring in Cognitive Science
 
