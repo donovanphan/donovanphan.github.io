@@ -15,12 +15,9 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
-  - _pages/about.md
+  - /index.md
+  - /about.md
   
-include:
-    - _pages
-    
 exclude: 
     - Gemfile
     - README.md
