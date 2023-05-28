@@ -1,5 +1,5 @@
 Hello! \
 My name is Donovan Phan \
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+I'm an incoming junior at [UC Davis](https://ucdavis.edu) majoring in cognitive science.
 
 
